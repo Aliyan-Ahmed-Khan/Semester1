@@ -1,5 +1,3 @@
-Online Library System
-
-Made in Visual Studio 2022, using C# Language.
-
-Developed for Computer Programming.
+Semester 1 Projects
+Computer Programming(Language C#)
+Computing Fundamentals(Microsoft Access & HTML)
